@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Aditya Oberai\\Documents\\GitHub\\mslearn-write-internet-connected-Windows-apps\\APOD_UWP\\APOD_UWP.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Aditya Oberai\\Documents\\GitHub\\mslearn-write-internet-connected-Windows-apps\\APOD_UWP\\APOD_UWP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aditya Oberai\\Documents\\GitHub\\mslearn-write-internet-connected-Windows-apps\\APOD_UWP\\APOD_UWP.csproj",
+        "projectName": "APOD_UWP",
+        "projectPath": "C:\\Users\\Aditya Oberai\\Documents\\GitHub\\mslearn-write-internet-connected-Windows-apps\\APOD_UWP\\APOD_UWP.csproj",
+        "packagesPath": "C:\\Users\\Aditya Oberai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aditya Oberai\\Documents\\GitHub\\mslearn-write-internet-connected-Windows-apps\\APOD_UWP\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aditya Oberai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.8, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

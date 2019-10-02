@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Aditya Oberai\source\repos\APOD_UWP\APOD_UWP\bin\ARM\Debug\APOD_UWP_1.0.1.0_ARM_Debug.msix
+SymbolPackage=C:\Users\Aditya Oberai\source\repos\APOD_UWP\APOD_UWP\obj\ARM\Debug\Symbols\APOD_UWP_1.0.1.0_ARM_Debug.appxsym
