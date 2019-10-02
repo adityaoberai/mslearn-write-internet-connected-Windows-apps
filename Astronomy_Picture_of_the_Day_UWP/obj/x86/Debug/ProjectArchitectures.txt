@@ -1,0 +1,1 @@
+C:\Users\Aditya Oberai\Documents\GitHub\mslearn-write-internet-connected-Windows-apps\Astronomy_Picture_of_the_Day_UWP\Astronomy_Picture_of_the_Day_UWP.csproj;x86
